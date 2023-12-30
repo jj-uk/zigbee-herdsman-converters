@@ -1,5 +1,12 @@
 # Changelog
 
+## [18.1.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.1.0...v18.1.1) (2023-12-30)
+
+
+### Bug Fixes
+
+* Rename `BSD29` to `BSD29/BSD59` https://github.com/Koenkk/zigbee2mqtt/issues/20431 ([a5a837e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a5a837e63d8204528f6a8f35e108db8d4a01ec0a))
+
 ## [18.1.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.0.2...v18.1.0) (2023-12-29)
 
 
